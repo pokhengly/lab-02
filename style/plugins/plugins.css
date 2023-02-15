@@ -1,0 +1,13 @@
+
+/* ----------------------------------------------------------------
+			[ All CSS Plugins & Default Classes File ]
+-----------------------------------------------------------------*/
+
+/* == bootstrap == */
+@import url("bootstrap5/css/bootstrap.min.css");
+
+/* == default classes == */
+@import url("default/default.css");
+
+/* == navigation == */
+@import url("nav-menu/nav-menu.css");
